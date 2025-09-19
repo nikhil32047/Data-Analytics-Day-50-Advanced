@@ -1,0 +1,54 @@
+ Advanced Data Analytics Lessons
+
+🔹 Lesson 1: Data Cleaning & Preprocessing
+==========================================
+Summary:
+Raw data is messy. Cleaning ensures accuracy, consistency, and usability.
+Remove duplicates
+Handle missing values (mean/median imputation, drop rows)
+Standardize formats (dates, phone numbers)
+Normalize/scale numerical data
+
+Example:
+In a sales dataset, some rows have null in "Customer Age". Replace nulls with the average age or drop incomplete rows.
+
+
+🔹 Lesson 2: Exploratory Data Analysis (EDA)
+=============================================
+Summary:
+EDA is the process of exploring data to discover trends, relationships, and anomalies before modeling.
+Use summary stats (mean, median, mode)
+Visualize with histograms, scatterplots, boxplots
+Detect outliers
+
+Example:
+Netflix analyzing user watch-time:
+Histogram → most users watch between 20–45 mins daily
+Scatterplot → young users binge longer series
+
+
+🔹 Lesson 3: Data Visualization
+================================
+Summary:
+Turning numbers into visuals for insights. Tools: Matplotlib, Seaborn, Power BI, Tableau.
+Bar chart → categorical comparisons
+Line chart → trends over time
+Heatmap → correlations
+
+Example:
+Swiggy delivery times across cities shown in a bar chart → reveals Bangalore has the highest delays.
+
+
+🔹 Lesson 4: Case Study – Sales Insights Dashboard
+==============================================
+Summary:
+Combining all steps:
+Clean raw sales data
+Perform EDA to find sales patterns
+Visualize monthly revenue in Power BI
+Deliver insights (e.g., “December sales peak due to holiday offers”)
+
+Example:
+A retail store found weekend sales were 40% higher than weekdays. Action: Increase staffing and promotions on weekends.
+
+
